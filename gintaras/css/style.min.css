@@ -360,7 +360,7 @@
  .promo {
      min-height: 100vh;
      position: relative;
-     background: url('img/copy.jpg') no-repeat 50%/cover;
+     background: url('/img/copy.jpg') no-repeat 57%/cover;
      padding-top: 205px;
      color: azure
  }
@@ -1274,7 +1274,7 @@
      }
 
      .promo {
-         background: url('img/copy_576.jpg') no-repeat 57%/cover
+         background: url('/img/copy_576.jpg') no-repeat 57%/cover
      }
 
      .promo__title {
@@ -1382,7 +1382,7 @@
      }
 
      .promo {
-         background: url('img/copy_576.jpg') no-repeat 57%/cover
+         background: url('/img/copy_576.jpg') no-repeat 57%/cover
      }
 
      .promo__btns {
